@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@api": [
+        "src/api"
+      ],
+      "@assets": [
+        "src/assets"
+      ],
+      "@enums": [
+        "src/enums"
+      ],
+      "@components": [
+        "src/components"
+      ],
+      "@types": [
+        "src/types"
+      ]
+    }
+  }
+}
